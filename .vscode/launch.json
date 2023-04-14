@@ -1,0 +1,16 @@
+﻿{
+    "configurations": [
+        {
+            "name": "Attach Nekoland Server",
+            "type": "moonsharp-debug",
+            "request": "attach",
+            "debugServer" : 41912,
+        },
+        {
+            "name": "Attach Nekoland Client",
+            "type": "moonsharp-debug",
+            "request": "attach",
+            "debugServer" : 41911,
+        }
+    ]
+}
